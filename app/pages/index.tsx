@@ -11,7 +11,7 @@ const Home = () => (
       <div className="logo">
         <img src="/logo.png" alt="blitz.js" />
       </div>
-      <p>1. Run this command in your terminal:</p>
+      <p>1. Run this shit in your terminal:</p>
       <pre>
         <code>blitz generate all project name:string</code>
       </pre>
